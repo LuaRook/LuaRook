@@ -7,13 +7,15 @@
 - 🔭 I’m currently working at Insightive LLC.
 - 👯 I’m looking to collaborate with a team of like-minded individuals.
 
-<h3 align="center">Learn More About Me:></h>
+<h3 align="center">Learn More About Me:</h>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luarook" alt="luarook" /></a> </p>
+<p align="center">
+  &nbsp;
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luarook" alt="luarook" /></a>
+</p>
 
 <p>
   &nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luarook&show_icons=true&locale=en" alt="luarook" />
-  &nbsp;
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luarook&" alt="luarook" />
 </p>
