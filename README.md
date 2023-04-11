@@ -9,8 +9,9 @@
 
 <h3 align="center">Learn More About Me:</h>
 
+<br></br>
+
 <p align="center">
-  &nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luarook" alt="luarook" /></a>
 </p>
 
