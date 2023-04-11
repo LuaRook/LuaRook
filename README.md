@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with a team of like-minded individuals.
 
 <h3 align="center">Learn More About Me:</h>
-
+<br></br>
 
 <p align="center">
   &nbsp;
