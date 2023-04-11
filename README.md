@@ -11,10 +11,10 @@
 <br></br>
 
 <p align="center">
-  &nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luarook" alt="luarook" /></a>
   
   &nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luarook&" alt="luarook" />
+  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luarook&show_icons=true&locale=en" alt="luarook" />
 </p>
