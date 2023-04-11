@@ -10,6 +10,7 @@
 ### Connect With Me
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luarook" alt="luarook" /></a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luarook&show_icons=true&locale=en" alt="luarook" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luarook&" alt="luarook" /></p>
+<p>&nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luarook&show_icons=true&locale=en" alt="luarook" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luarook&" alt="luarook" />
+</p>
