@@ -4,7 +4,7 @@
 
 <p align="left">I'm Rook, a Roblox Gameplay Programmer and Scripter. I strive to make the very best experiences that feel authentic to communities on the platform.</p>
 
-- 🔭 I’m currently working at Insightive LLC.
+- 🔭 I’m currently working at Sawhorse Interactive.
 - 👯 I’m looking to collaborate with a team of like-minded individuals.
 
 <h3 align="center">Learn More About Me:</h>
